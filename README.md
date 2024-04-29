@@ -15,6 +15,7 @@ An future implementation that would be ideal for larger scale blogs would be to 
 ### Default administrator information 
 
 Email: admin@codepulse.com
+
 Password: Admin@123
 
 <sub>** This can be changed in the API AuthDbContext. **</sub>
