@@ -1,0 +1,6 @@
+node_modules
+./UI/codepulse/node_modules
+bin
+.vs
+Migrations
+obj
