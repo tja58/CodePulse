@@ -17,5 +17,5 @@ An future implementation that would be ideal for larger scale blogs would be to 
 Email: admin@codepulse.com
 Password: Admin@123
 
-<sub>** This can be changed in The API AuthDbContext. **</sub>
+<sub>** This can be changed in the API AuthDbContext. **</sub>
 
